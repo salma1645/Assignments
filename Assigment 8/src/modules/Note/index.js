@@ -1,0 +1,1 @@
+export {default as notecontroller} from "./Note.controller.js"

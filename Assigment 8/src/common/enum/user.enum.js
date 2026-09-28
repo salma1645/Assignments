@@ -1,0 +1,1 @@
+//enum = a restriction/validator on the field, not a datatype.  bec,jd doesnt have built in enum
